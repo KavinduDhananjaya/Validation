@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6021e5b0-ec7a-4f6d-a73d-a96a5153c9af" name="kavindu" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
